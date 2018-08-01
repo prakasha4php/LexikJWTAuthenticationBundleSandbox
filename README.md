@@ -11,6 +11,10 @@ A minimalist sandbox to quickly test JWT authentication through [LexikJWTAuthent
 
     composer install -o
 
+## Running locally
+
+php app/console server:run 0.0.0.0:8000
+
 ## Running test suite
 
     bin/phpunit -c app
