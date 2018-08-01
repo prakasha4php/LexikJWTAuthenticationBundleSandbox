@@ -13,7 +13,7 @@ A minimalist sandbox to quickly test JWT authentication through [LexikJWTAuthent
 
 ## Running locally
 
-php app/console server:run 0.0.0.0:8000
+     php app/console server:run 0.0.0.0:8000
 
 ## Running test suite
 
